@@ -89,15 +89,15 @@ customer-shopping-behavior-analysis/
 ├── 📂 notebooks/
 │   └── Customer_Shopping_Behaviour.ipynb               # Data cleaning & transformation
 │
-├── 📂 sql/
-│   ├── CustomerDB.sql                                  # Database setup & queries
+├── 📂 sql/                               
 │   └── Answers.sql                                     # SQL analysis queries
 │
 ├── 📂 dashboard/
-│   └── Screenshot_2026-03-01_at_02_10_49.png           # Power BI dashboard screenshot
+│   └── dashboard.pdf           # Power BI dashboard 
 │
 └── 📂 reports/
-    └── Customer_Shopping_Behavior_Analysis_Project.pdf  # Full project report
+    └── Customer_Shopping_Behavior_Report.pdf  # Full project report
+    └── Customer_Shopping_Behavior_Project_Description.pdf  # Full project description
 ```
 
 ---
@@ -197,7 +197,7 @@ An interactive dashboard was built in Power BI with filters for Category, Season
 
 <div align="center">
 
-![Customer Shopping Behavior Dashboard](dashboard/Screenshot_2026-03-01_at_02_10_49.png)
+![Customer Shopping Behavior Dashboard](dashboard.pdf)
 
 </div>
 
@@ -251,12 +251,6 @@ A comprehensive project report is included in the [`reports/`](reports/) folder,
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
@@ -264,7 +258,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <div align="center">
-
-⭐ **If you found this project useful, please give it a star!** ⭐
 
 </div>
